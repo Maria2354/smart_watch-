@@ -23,7 +23,7 @@ SmartWatch is a responsive product website developed to showcase a modern smartw
 
 You can view the live project here:
 
-**Live Demo:** [Add your GitHub Pages link here]
+**Live Demo:** https://maria2354.github.io/smart_watch-/
 
 Alternatively, to run it locally:
 
